@@ -1,0 +1,14 @@
+{
+  "name": "@octo-common/window",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  },
+  "dependencies": {
+    "electron": "^11.3.0",
+    "electron-store": "^7.0.2"
+  }
+}
